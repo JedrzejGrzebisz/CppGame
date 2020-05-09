@@ -1,0 +1,50 @@
+﻿  source.cpp
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(23): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(74): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(78): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(99): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(106): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(113): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(237): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(240): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(252): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(255): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(267): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(279): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(304): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(310): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(320): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\jedrz\documents\gra_jedrzej_grzebisz\gierka\gierka\source.cpp(327): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Gierka.vcxproj -> C:\Users\jedrz\Documents\Gra_Jedrzej_Grzebisz\Gierka\Debug\Gierka.exe
